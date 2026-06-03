@@ -1,0 +1,2 @@
+tim tat ca cac files trong mot thu muc co chua 'filename'
+ls | grep 'filename'

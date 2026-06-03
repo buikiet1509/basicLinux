@@ -1,0 +1,2 @@
+Dem so dong co chu 'error' trong file log bat ky( ke ca ERROR viet hoa hoac thuong)
+grep .i 'error' randomFile.txt | wc -l

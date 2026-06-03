@@ -1,0 +1,2 @@
+Viet mot dong lenh dung pipe: lay 10 process tieu thu ram cao nhat
+ps aux --sort=-%mem | head -11

@@ -1,0 +1,3 @@
+SSH Key la cap khoa dung de xac thuc khi ket noi den server tu xa khong can mat khau
+private_key: ten file: id_rsa, khoa bi mat- giu tren may ( local)
+public_key: ten file: id_rsa.pub khoa cong khai- gui len server 

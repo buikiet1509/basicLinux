@@ -1,0 +1,8 @@
+write script bash which count all the file and arrange it base on typed in a dir
+find "$dir" -type f : find all files in dir 
+grep '\.' splited files which have '.'
+awk -F'.' '{print $NF}' : -F'.' separated by '.'
+                          $NF: take the end of column(the tail)
+sort: arrange all tails which are the same sit next to each other
+uniq -c: count the times of all tails
+sort -rn: -r: reverse, -n: sort by number 

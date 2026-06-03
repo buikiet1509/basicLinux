@@ -1,0 +1,3 @@
+chmod +x: make executable
+chmod 755: scripts/foldere
+chmod 644: normal files

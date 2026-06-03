@@ -1,0 +1,9 @@
+sed la lenh dung de tim va thay the chuoi trong file
+vi du: thay the localhost bang chuoi khac: sed -i 's/localhost/127.0.0.1/g' file.txt
+sed: stream editor
+-i: sua truc tiep trong file( in -place ) 
+s: substitute( thay the ) 
+localhost: chuoi can tim 
+127.0.0.1: chuoi thay the 
+g: global-thay the tat ca ( khong chi dong dau)
+file.txt: file can sua 
